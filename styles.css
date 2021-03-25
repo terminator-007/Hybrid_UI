@@ -1,28 +1,27 @@
-body{
+.a11y_sty_body {
 	font-size: 1.5em !important;
 	line-height: 2em !important;
 	font-weight: bold !important;
 }
-  
-a:link {
 
+.a11y_sty_a:link {
 	font-size: 1.5em !important;
 }
-a:visited {
 
+.a11y_sty_a:visited {
 	font-size: 1.5em !important;
 }
-a:hover {
 
+.a11y_sty_a:hover {
 	font-size: 1.5em !important;
 }
-a:active {
 
+.a11y_sty_a:active {
 	font-size: 1.5em !important;
 }
 
 /* Paragraphs */
-p {
+.a11y_sty_p {
 	font-size: 1.5em !important;
 	line-height: 2em !important;
 	font-weight: bold !important;
